@@ -1,6 +1,9 @@
 #Firstly, install git on your ubuntu by typing
 sudo apt install git
 
+#Let the execute the removeGuiRelated.sh file
+sudo chmod +x removeGuiRelated.sh
+
 #And install packages
 sudo apt purge --auto-remove vlc*
 sudo apt purge --auto-remove sonic-pi*
