@@ -8,6 +8,6 @@ removev packages; vlc, sonic-pi, firefox, scratch, welcome page, thunderbird, pi
 $ git clone https://github.com/semihyildirim/removeGuiRelatedPackages
 $ cd removeGuiRelatedPackages
 $ sudo chmod +x removeGuiRelated.sh
-./removeGuiRelatedPackages.sh
+$ ./removeGuiRelatedPackages.sh
 
 ```
